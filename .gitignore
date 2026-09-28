@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# MIMIC-IV data
+data/mimic/
+
+# Local/processed datasets
+data/processed/
